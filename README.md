@@ -1,6 +1,4 @@
-public class hi{
-    public static void main(String args[]){
-        System.out.println("Hello World");
-
-    }
-}
+Covered Topics On Day01
+1. Flowcharts & Pseudocodes
+2. Introduction to java - Architecture & TYPES of Languages, Memory Management
+3. Variables,Operator & Data Types
